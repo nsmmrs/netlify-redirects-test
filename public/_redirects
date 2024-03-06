@@ -1,2 +1,2 @@
 /other-images/* https://images.unsplash.com/:splat 200
-/images/* /$IMAGES_URL/:splat 200
+/images/* /${IMAGES_URL}/:splat 200
